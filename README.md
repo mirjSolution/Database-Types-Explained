@@ -30,7 +30,7 @@ In modern software development and DevOps, choosing the right database is critic
   - Limited storage capacity (RAM-bound)
   - Not suitable for long-term data persistence
 - **Common Use Cases**:
-  - Caching (e.g., Twitter, Snapchat)
+  - Caching (e.g., X, Snapchat)
   - Message queues
   - Kubernetes state storage (etcd)
 
